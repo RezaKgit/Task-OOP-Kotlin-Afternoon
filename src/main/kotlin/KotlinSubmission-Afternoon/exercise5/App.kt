@@ -45,7 +45,6 @@ fun main() {
     ===============Class B Afternoon===============
     FRINIGHT -> jalan 2x, lari 4x, makan 3x, minum 2x, lompat 1x, duduk 2x
     EnviGrowth -> jalan 2x, lari 1x, makan 2x, minum 1x, lompat 2x, duduk 4x
-    Unlimited Innovation -> jalan 2x, lari 1x, makan 5x, minum 2x, lompat 3x, duduk 1x
     ZWH (Zero Waste Heroes) -> jalan 1x, lari 2x, makan 3x, minum 4x, lompat 5x, duduk 6x
     Serenity -> jalan 5x, lari 3x, makan 1x, minum 2x, lompat 3x, duduk 2x
     UNLIMITED INNOVATION -> jalan 1x, lari 3x, makan 2x, minum 5x, lompat 4x, duduk 1x
@@ -57,7 +56,6 @@ fun main() {
     GrowZen -> jalan 2x, lari 2x, makan 1x, minum 3x, lompat 1x, duduk 2x
     Unpredictable (Group Merge 12)
     NusaVote -> jalan 5x, lari 4x, makan 4x, minum 4x, lompat 3x, duduk 2x
-    Cosmopolite -> jalan 2x, lari 4x, makan 3x, minum 2x, lompat 1x, duduk 2x
     Vortex -> jalan 2x, lari 1x, makan 2x, minum 1x, lompat 2x, duduk 4x
 
     **/
